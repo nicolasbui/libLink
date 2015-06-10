@@ -1,0 +1,22 @@
+{
+  "name": "jquery-lib-link",
+  "version": "1.0.0",
+  "authors": [
+    "Nicolas BUI <nicolas.bui@gmail.com>"
+  ],
+  "license": "MIT",
+  "ignore": [
+    "**/.*",
+    "node_modules",
+    "bower_components",
+    "test",
+    "tests"
+  ],
+  "main": [
+    "jquery.liblink.js"
+  ],
+  "dependencies": {
+    "jquery": ">=1.9.0"
+  },
+  "homepage": "https://github.com/nicolasbui/libLink.git"
+}
